@@ -1,4 +1,4 @@
-﻿## Pintereach Backend
+# Pintereach Backend
 
 # Database Design
 
